@@ -8,9 +8,9 @@ Test Automation Engineer
 burakcolak000@gmail.com
 
 ### Getting Started
-To get start with this framework, you will need to following software on your system.
-•  Java 8 or later
-•  Maven 3 or later
+To get start with this framework, you will need to following software on your system.\
+•  Java 8 or later\
+•  Maven 3 or later\
 •  Chrome or Firefox Web Browser
 
 1. Open terminal or command prompt and navigate to the root directory of the projec.
